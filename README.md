@@ -22,8 +22,8 @@
 ### SE PUDER CONTRIBUIR COM SEU CONHECIMENTO, VAMOS TROCAR ALGUMAS IDEIAS!! ESSAS SÃO AS MINHAS REDES SOCIAIS:
 
 <div> 
-  <a href="https://wa.me//554192241441?text=Olá,%20tudo%20bem?%20Identifiquei%20seu%20perfil%20e%20estou%20entrando%20em%20contato%20para%20trocarmos%20algumas%20ideias!%20O%20que%20acha?!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_bruwnie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunomfogaca@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bmfogaca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me//554192241441?text=Olá,%20tudo%20bem?%20Identifiquei%20seu%20perfil%20e%20estou%20entrando%20em%20contato%20para%20trocarmos%20algumas%20ideias!%20O%20que%20acha?!" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
+  <a href="https://instagram.com/_bruwnie" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
+  <a href = "mailto:brunomfogaca@outlook.com" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
+  <a href="https://www.linkedin.com/in/bmfogaca" target="_blank"rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer noopener"></a> 
 </div>
