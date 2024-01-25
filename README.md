@@ -4,7 +4,7 @@
 - 📘 Estudante de Ciência da Computação < 3 meses.
 - 📚 Focando o aprendizado em HTML, CSS e JS.
 - 🥳 Aberto a oportunidades para me desenvolver nesta nova área que escolhi.
-- 
+  
  <div>
    <a href="https://github.com/bruno-mfogaca">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-mfogaca&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
